@@ -1,0 +1,15 @@
+{
+    "document_type": "invoice",
+    "title": "Bioplex INVOICE",
+    "date": "23-05-2021",
+    "author_or_sender": "Bioplex",
+    "recipient": "Roger Bigot",
+    "key_points": [
+        "Invoice number BPXINV-00550 issued to Roger Bigot",
+        "Payment terms are due after 30 days",
+        "The order includes a wide variety of pharmaceutical chemicals and compounds",
+        "Salesperson for the account is Marianne de la Guillaume"
+    ],
+    "total_amount": "6610.95",
+    "summary": "This is a sales invoice from Bioplex to Roger Bigot for various chemical and pharmaceutical products. The total amount due, including sales tax and shipping, is 6610.95."
+}
