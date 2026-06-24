@@ -1,0 +1,15 @@
+{
+    "document_type": "invoice",
+    "title": "Invoice No. 1213",
+    "date": "16-12-2021",
+    "author_or_sender": "Zencorporations",
+    "recipient": "La Galerie",
+    "key_points": [
+        "Invoice number 1213 for various plant products",
+        "Total amount due is 2809.30 EUR",
+        "Payment is due 30 days after receipt",
+        "Includes sales tax of 255.39 EUR"
+    ],
+    "total_amount": "2809.30",
+    "summary": "This is a sales invoice from Zencorporations to La Galerie for the purchase of various plants. The total amount due, including sales tax, is 2809.30 EUR."
+}
