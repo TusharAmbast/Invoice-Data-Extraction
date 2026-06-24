@@ -1,0 +1,15 @@
+{
+    "document_type": "invoice",
+    "title": "Invoice Number INV-3337",
+    "date": "25-01-2016",
+    "author_or_sender": "DEMO - Sliced Invoices",
+    "recipient": "Test Business",
+    "key_points": [
+        "Invoice number INV-3337 for Web Design services",
+        "Total amount due is $93.50",
+        "Payment is due by January 31, 2016",
+        "Late payments are subject to a 5% monthly fee"
+    ],
+    "total_amount": "$93.50",
+    "summary": "This is a service invoice from DEMO - Sliced Invoices to Test Business for web design work. The total amount due is $93.50, including tax, with a payment deadline of January 31, 2016."
+}
